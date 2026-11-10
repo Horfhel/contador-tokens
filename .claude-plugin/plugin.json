@@ -1,0 +1,1 @@
+{"name":"contador-tokens","version":"1.0.0","description":"Mostra baterias de tokens e dos limites de 5h e 7 dias acima do campo de mensagem.","types":"./types/index.d.ts"}
